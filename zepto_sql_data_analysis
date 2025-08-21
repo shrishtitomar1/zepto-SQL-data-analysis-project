@@ -10,8 +10,7 @@ availableQuantity INTEGER,
 discountedSellingPrice NUMERIC(8,2),
 weightInGms INTEGER,
 outOfStock BOOLEAN,	
-quantity INTEGER
-);
+quantity INTEGER);
 
 --data exploration
 
